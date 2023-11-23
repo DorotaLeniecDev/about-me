@@ -18,7 +18,7 @@ const ProjectList = () => (
       <Project
         name="Ecommerce Admin Panel"
         description="CMS for managing multiple stores / vendors. Create stores, manage categories, products, sizes, colors, generate API routes in one admin panel."
-        link="https://e-commerce-admin-4vw73nzme-dorotaleniecdev.vercel.app/"
+        link="https://e-commerce-admin-pi-one.vercel.app/"
         img={{
           src: "/assets/images/ecommerce.png",
           alt: "Project Web Design",
@@ -41,7 +41,7 @@ const ProjectList = () => (
           <Project
             name="Ecommerce Platform"
             description="Store page intgrated with Ecommerce Admin Panel."
-            link="https://e-commerce-admin-4vw73nzme-dorotaleniecdev.vercel.app/"
+            link="https://e-commerce-admin-pi-one.vercel.app/"
             img={{
               src: "/assets/images/ecommerce-platform.png",
               alt: "Project Web Design",
