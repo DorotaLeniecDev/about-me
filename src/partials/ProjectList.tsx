@@ -27,7 +27,7 @@ const ProjectList = () => (
           <>
             <Tags color={ColorTags.BLUE}>NextJS</Tags>
             <Tags color={ColorTags.INDIGO}>Prisma</Tags>
-            <Tags color={ColorTags.GREEN}>Tailwind.css</Tags>
+            <Tags color={ColorTags.GREEN}>TailwindCSS</Tags>
             <Tags color={ColorTags.YELLOW}>TypeScript</Tags>
           </>
         }
@@ -49,7 +49,7 @@ const ProjectList = () => (
             category={
               <>
                 <Tags color={ColorTags.BLUE}>NextJS</Tags>
-                <Tags color={ColorTags.GREEN}>Tailwind.css</Tags>
+                <Tags color={ColorTags.GREEN}>TailwindCSS</Tags>
                 <Tags color={ColorTags.YELLOW}>TypeScript</Tags>
               </>
             }
