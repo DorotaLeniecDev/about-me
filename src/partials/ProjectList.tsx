@@ -34,14 +34,11 @@ const ProjectList = () => (
       />
 
       <div className="relative">
-        <div className="absolute left-0 right-0 w-[100px] mx-auto top-0.5">
-          In progress...
-        </div>
-        <div className="opacity-10">
+        <div>
           <Project
             name="Ecommerce Platform"
             description="Store page intgrated with Ecommerce Admin Panel."
-            link="https://e-commerce-admin-pi-one.vercel.app/"
+            link="https://e-commerce-store-dun.vercel.app/"
             img={{
               src: "/assets/images/ecommerce-platform.png",
               alt: "Project Web Design",
